@@ -19,6 +19,7 @@
 * GitHub
 
 ## Project
+* [Car Rental Sytem]
 * [NEWS Application using APIs](https://github.com/Shreyansh122333/NEWS-Application)
 * [Spotify Music System](https://github.com/Shreyansh122333/spotify_clone)
 * [Web Development Project](https://github.com/Shreyansh122333/DigitalHub)
